@@ -1,0 +1,21 @@
+bin/
+obj/
+
+.vs/
+.vscode/
+*.user
+*.suo
+
+appsettings.Development.json
+appsettings.Production.json
+
+## Logs
+*.log
+
+## OS
+.DS_Store
+Thumbs.db
+
+## NuGet
+*.nupkg
+packages/
